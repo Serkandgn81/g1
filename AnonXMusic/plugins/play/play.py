@@ -33,11 +33,11 @@ from config import BANNED_USERS, lyrical
             "voynat",
             "vplay",
             "cplay",
-            "cvplay",
+            "cvoynat",
             "playforce",
-            "vplayforce",
+            "voynatforce",
             "cplayforce",
-            "cvplayforce",
+            "cvoynatforce",
         ]
     )
     & filters.group
